@@ -25,9 +25,9 @@ Este projeto foi feito para resolver um problema comum relacionado a quantidade 
 ## Como usar
 
 1. Baixe o arquivo `.xlsx` deste repositório.
-2. Abra no Microsoft Excel (recomendado Excel 365, mas versões anteriores também funcionam).
+2. Abra no Microsoft Excel.
 3. Preencha os campos de cada aba com os seus dados.
-4. Para cada banco, anexe (ou anote o nome do arquivo) o informe de rendimentos correspondente.
+4. Para cada banco, anexe o informe de rendimentos correspondente.
 
 ## Requisitos
 
